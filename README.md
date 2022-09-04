@@ -25,12 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](<./images/127.0.0.1_5500_index.html(iPhone%20X).png>)
-![](./images/127.0.0.1_5500_index.html.png)
+![](<./images/Capture d’écran 2022-09-04 134457.png>)
+![](<./images/Capture d’écran 2022-09-04 134351.png>)
 
 ### Links
 
-[Solution](https://fluffykas.github.io/order-summary-component/)
+[Solution](https://phoenixMputu.github.io/profile-card-component-main)
 
 ## My process
 
